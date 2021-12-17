@@ -5,7 +5,7 @@ namespace Chip8Emu
     public class Chip8
     {
 
-        public ushort OP { get; private set; }
+        public ushort OP { get; private set; } 
 
         public ushort PC { get; private set; }
 
